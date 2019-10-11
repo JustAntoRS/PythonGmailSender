@@ -7,7 +7,7 @@ gmail_name = 'your gmail account goes here'
 gmail_password = 'your password goes here'
 
 #Define the message
-with open('discourse.txt') as text:
+with open('email.txt') as text:
     msg = text.read()
 
 #Basic function to send mails
@@ -40,7 +40,7 @@ with open('to_example.csv') as csv_file:
 
     for row in csv_reader:
         msg = msg.replace("{}",row[0],1)
-        send_mail(msg,'Bienvenido a ACM',row[1])
+        send_mail(msg,'subject',row[1])
         msg = msg.replace(row[0],"{}",1)
     line_count += 1
 
