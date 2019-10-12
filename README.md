@@ -11,5 +11,5 @@ To use this script you have to:
 
 # To Do List
 
-- [ ] Send messages with HTML format 
+- [X] Send messages with HTML format 
 - [ ] Make not necessary to activate access to less safe applications in Gmail
