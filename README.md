@@ -11,5 +11,5 @@ To use this script you have to:
   * Write the name of the person in the 1st column of the CSV and the email in the 2nd column, starting in the second line of the CSV
 
 # To Do List
-- [X] ~~Send messages with HTML format <3~~ @Alfedi
+- [X] ~~Send messages with HTML format~~ <3 @Alfedi
 - [ ] Make not necessary to activate access to less safe applications in Gmail
