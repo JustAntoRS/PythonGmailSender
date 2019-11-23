@@ -12,4 +12,4 @@ To use this script you have to:
 
 # To Do List
 - [X] ~~Send messages with HTML format~~ <3 @Alfedi
-- [ ] Make not necessary to activate access to less safe applications in Gmail
+- [ ] ~~Make not necessary to activate access to less safe applications in Gmail~~(Thougth about it with @Alfedi and we found it was not a very good idea)
